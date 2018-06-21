@@ -8,7 +8,7 @@ Jogo da forca V.01
     - adicionado print de chutes e qtd de chutes e chutes restantes.
     - adicionado tratamento de erro na entrada.
     - adicionado Placar.
-    - adicionado contador de acertos e erros
+    - adicionado contadores de acertos e erros
 '''
 
 from random import randrange
