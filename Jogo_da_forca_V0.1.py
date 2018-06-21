@@ -1,5 +1,5 @@
 '''
-Autro:Rodnei Carvalho - python-brasil
+Autor:Rodnei Carvalho - python-brasil
 colaborador: Edson J. Silva- python-brasil
 
 Jogo da forca V.01
